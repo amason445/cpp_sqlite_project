@@ -5,6 +5,12 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_sqlite_project", "cpp_sqlite_project.vcxproj", "{A86CA6F7-67F2-42E8-A396-EBDE5B15C5A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ABBE7C18-56BF-4160-8E43-65728C0B2213}"
+	ProjectSection(SolutionItems) = preProject
+		sqlite3\sqlite3.c = sqlite3\sqlite3.c
+		sqlite3\sqlite3.h = sqlite3\sqlite3.h
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
