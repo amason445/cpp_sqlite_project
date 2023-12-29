@@ -17,4 +17,4 @@ Below are two screenshots that show the output database:
 - Build into an ORM with OOP
 - Build more tables and structure
 - Run more complex queries
-- Load in input data
+- Load raw input data
