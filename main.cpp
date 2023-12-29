@@ -91,5 +91,4 @@ int main() {
 	//closes SQLite DB and terminates script
 	sqlite3_close(db);
 	return 0;
-
 }
