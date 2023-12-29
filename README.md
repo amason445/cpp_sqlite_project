@@ -14,7 +14,7 @@ Below are two screenshots that show the output database:
 ![alt text](https://github.com/amason445/cpp_sqlite_project/blob/master/Screenshots/Screenshot2.png)
 
 ## Future Ideas
-- Build into an ORM with OOP
+- Modularize with OOP
 - Build more tables and structure
 - Run more complex queries
 - Load raw input data
