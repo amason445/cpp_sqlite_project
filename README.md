@@ -4,3 +4,7 @@ I started a project to build and manipulate a SQLite database with C++. Right no
 
 ## Output Screenshots
 Below are two screenshots that show the output database:
+
+![alt text](https://github.com/amason445/cpp_sqlite_project/blob/master/Screenshots/Screenshot1.png)
+
+![alt text](https://github.com/amason445/cpp_sqlite_project/blob/master/Screenshots/Screenshot2.png)
